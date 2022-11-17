@@ -8,9 +8,10 @@ Industry : Lifestyle
 
 Project Title : E-Commerce system Website
 
-project link :  https://arthikatteboina.github.io/E-Commerce-Website/
-
-Demo link : https://drive.google.com/file/d/1Xb8Tx2JX6zliSiFwEWXE11xVJ7507yWu/view?usp=drivesdk
+project link :  
+  https://arthikatteboina.github.io/E-Commerce-Website/
+Demo link : 
+  https://drive.google.com/file/d/1Xb8Tx2JX6zliSiFwEWXE11xVJ7507yWu/view?usp=drivesdk
 
 Problem Statement/Opportunity : This application is developed to provide best services for the customers. I have developed E-Commerce website to provide a search platform where a customer can find their desired products according to their choices. Build a website that have: Home Page, Product Page, About Us page, Cart page,Contact Us page.
 
